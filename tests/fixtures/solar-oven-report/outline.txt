@@ -1,0 +1,8 @@
+Solar Oven Report - Outline
+
+1. Question: can a pizza-box oven reach 80 C on a sunny afternoon?
+2. Materials: cardboard box, aluminium foil, black paper, plastic wrap, thermometer.
+3. Method: build the oven, face it toward the sun, read the temperature every 5 minutes.
+4. Results: see temperatures.csv and chart.png.
+5. Conclusion: the foil flap angle mattered more than the black paper.
+6. Next steps: test a double-wall box and a glass lid.
